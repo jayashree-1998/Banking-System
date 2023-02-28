@@ -1,0 +1,31 @@
+{
+  "files.associations": {
+    "cstdio": "c",
+    "ostream": "c",
+    "constants.h": "c",
+    "string.h": "c",
+    "stdio.h": "c",
+    "fcntl.h": "c",
+    "util.h": "c",
+    "message.h": "c",
+    "types.h": "c",
+    "admin.h": "c",
+    "common.h": "c",
+    "client.h": "c",
+    "stdbool.h": "c",
+    "socket.h": "c",
+    "ip.h": "c",
+    "unistd.h": "c",
+    "inet.h": "c",
+    "random": "c",
+    "cstdlib": "c",
+    "stdlib.h": "c",
+    "ctime": "cpp",
+    "user.h": "c",
+    "time.h": "c",
+    "__locale": "c",
+    "locale": "c",
+    "thread": "c"
+  },
+  "C_Cpp.errorSquiggles": "Disabled"
+}
